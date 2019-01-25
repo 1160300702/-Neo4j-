@@ -1,2 +1,2 @@
-# -Neo4j-
-Python,PRL，众包
+# 基于Neo4j的知识图谱之知识推理
+Python，PRL，TransE，知识图谱众包版本
